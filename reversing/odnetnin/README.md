@@ -74,4 +74,4 @@ Fun fact: you can also solve this challenge _without_ `codechecker`!
 This was, in fact, the solution that we had originally planned for this challenge, though a mix of rushing, holidays, somewhat broken rewriting and poor communications eventually led to the flawed challenge release. Oh well. I guess there's a lesson for me in there somewhere ^^"  
 
 If you want, you can have a go at it on your own!  
-Otherwise, you can find the alternate solution [here](./attachments/spoiler_solve2/solve2.md).
+Otherwise, you can find the alternate solution [here](./attachments/spoiler_solve2.zip).
