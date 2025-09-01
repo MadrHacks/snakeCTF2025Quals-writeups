@@ -15,7 +15,7 @@ A power transmission line is visible in the video.
 
 If you are a nerd of power distribution networks you can clearly see that the line in the video is a 380kV line, constructed within the last 20 years.  
 If you are not familiar with power distribution networks take a frame and send it to your favorite LLM.
-![chat1](attachments/chat1.png)
+![chat1](images/chat1.png)
 We have now confirmed that we are looking at a 380kV power transmission line, in the FVG autonomous administrative region of Italy.
 
 Looking further we can see that there are two power lines running one parallel to the other.  
@@ -26,7 +26,7 @@ A quick DuckDuckGo search for "linee elettriche fvg mappa" (power lines fvg map)
 Same result is obtained by querying "mappa linee elettriche italia" (3rd result on DuckDuckGo) or "mappa 380kv fvg" (2nd result on DuckDuckGo).  
 Let's select "380kv" on the map.
 We can see that there are only two areas where we find two 380kV lines running in parallel, one leaving the Redipuglia primary substation, and one leaving the Udine west primary substation. Our place is located somewhere along these two lines.
-![map1](attachments/map1.png)
+![map1](images/map1.png)
 
 Matching the map with data from Google Street View we see that both lines use the exact same pylon design. We see however that the line connecting the Redipuglia primary substation is near an airport and has aerial marker balls attached to the topmost guard wire. As marker balls are not present in the video we can establish that we are looking at the line connecting the Udine west primary substation, before the two lines separate.
 
