@@ -1,6 +1,7 @@
 # Boxbin [_snakeCTF 2025 Quals_]
 
 **Category**: Web
+**Author**: macedonga
 
 ## Description
 
