@@ -20,7 +20,7 @@ Consider the file `challenge.py`.
 
 After the user has sent its message, the service checks the following conditions:
 
-```
+```py
 if len(input_message) < 2:
     print("Your message must have at least two blocks")
     break
