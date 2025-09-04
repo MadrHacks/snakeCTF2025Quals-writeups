@@ -45,5 +45,3 @@ This payload is stringified and sent via the `updateSettings` mutation. The serv
 With administrative privileges now active, the "Admin" link becomes visible in the site's header, leading to the `/admin` dashboard.
 
 On the dashboard, a list of "Hidden Posts" is available. The post titled "The Box To End All Boxes" is selected. The content of this post contains the flag.
-
-[The solver script can be found here.](./attachments/solve.py)
