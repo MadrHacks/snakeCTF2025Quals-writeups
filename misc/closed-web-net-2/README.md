@@ -1,6 +1,6 @@
 # Closed Web Net 2 [_snakeCTF 2025 Quals_]
 
-**Category**: network
+**Category**: network\
 **Author**: jotone
 
 ## Description
