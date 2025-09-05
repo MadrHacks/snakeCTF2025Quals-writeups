@@ -1,6 +1,7 @@
 # The Real Crypto Master [_snakeCTF 2025 Quals_]
 
 **Category**: misc/osint
+**Author**: mrBymax
 
 ## Description
 
