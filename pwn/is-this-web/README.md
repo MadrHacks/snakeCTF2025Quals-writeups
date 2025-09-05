@@ -1,6 +1,7 @@
 # Is this web? [_snakeCTF 2025 Quals_]
 
 **Category**: pwn
+**Author**: kalex
 
 ## Description
 
