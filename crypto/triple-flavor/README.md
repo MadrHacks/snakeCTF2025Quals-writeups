@@ -1,6 +1,7 @@
 # Triple-Flavor [_snakeCtf 2025 Quals_]
 
-**Category**: Crypto
+**Category**: Crypto\
+**Author**: Doc
 
 ## Description
 
